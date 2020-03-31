@@ -1,0 +1,22 @@
+{
+  "name": "mongo-connect",
+  "version": "1.0.0",
+  "description": "connect a mongodb with remote cloud cluster using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjkhan/Mongod-with-atlas.git"
+  },
+  "author": "rabnawaz jansher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjkhan/Mongod-with-atlas/issues"
+  },
+  "homepage": "https://github.com/rjkhan/Mongod-with-atlas#readme",
+  "dependencies": {
+    "mongodb": "^3.5.5"
+  }
+}
